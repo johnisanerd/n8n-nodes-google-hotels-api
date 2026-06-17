@@ -1,0 +1,33 @@
+{
+	"node": "n8n-nodes-google-hotels-api",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data & Storage",
+		"Analytics"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.apify.com/platform/integrations/n8n"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://apify.com/johnvc/google-hotels-search-scraper?fpr=9n7kx3"
+			}
+		]
+	},
+	"alias": [
+		"google hotels",
+		"hotels",
+		"hotel search",
+		"vacation rentals",
+		"lodging",
+		"accommodation",
+		"hotel prices",
+		"travel",
+		"rooms",
+		"apify"
+	]
+}
